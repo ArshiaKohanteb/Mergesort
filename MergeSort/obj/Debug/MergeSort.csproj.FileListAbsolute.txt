@@ -1,2 +1,6 @@
 C:\Users\ArshiaKohanteb\Documents\GitHub\MergeSort\MergeSort\MergeSort\bin\Debug\MergeSort.exe.config
 C:\Users\ArshiaKohanteb\Documents\GitHub\MergeSort\MergeSort\MergeSort\obj\Debug\MergeSort.csprojResolveAssemblyReference.cache
+C:\Users\ArshiaKohanteb\Documents\GitHub\MergeSort\MergeSort\MergeSort\bin\Debug\MergeSort.exe
+C:\Users\ArshiaKohanteb\Documents\GitHub\MergeSort\MergeSort\MergeSort\bin\Debug\MergeSort.pdb
+C:\Users\ArshiaKohanteb\Documents\GitHub\MergeSort\MergeSort\MergeSort\obj\Debug\MergeSort.exe
+C:\Users\ArshiaKohanteb\Documents\GitHub\MergeSort\MergeSort\MergeSort\obj\Debug\MergeSort.pdb
